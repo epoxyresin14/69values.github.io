@@ -220,7 +220,7 @@ questions = [
     }, 
     {
         "id":31,
-        "question": "I would enjoy being tied up during sex.",
+        "question": "I would enjoy being (consensually) forced to have an orgasm.",
         "effect": {
             "dominant": -1,
         }
