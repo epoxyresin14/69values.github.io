@@ -196,6 +196,33 @@ questions = [
         "effect": {
             "affect": -1
         }
+    },
+    {
+        "id":28,
+        "question": "I would enjoy using bondage in some way.",
+        "effect": {
+            "deviance": 1,
+        }
+    },
+    {
+        "id":29,
+        "question": "I would enjoy being tied up during sex.",
+        "effect": {
+            "dominant": -1,
+        }
+    },
+    {
+        "id":30,
+        "question": "I would enjoy tying (my partner) up during sex.",
+        "effect": {
+            "dominant": 1,
+        }
+    }, 
+    {
+        "id":31,
+        "question": "I would enjoy being tied up during sex.",
+        "effect": {
+            "dominant": -1,
+        }
     }
-
 ];
