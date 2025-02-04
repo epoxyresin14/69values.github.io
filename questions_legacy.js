@@ -214,6 +214,7 @@ questions = [
         "question": "I would enjoy tying (my partner) up during sex.",
         "effect": {
             "dominant": 1,
+        }
         },
     {
         "id":31,
