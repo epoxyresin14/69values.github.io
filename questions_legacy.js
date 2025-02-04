@@ -167,8 +167,6 @@ questions = [
             "deviance": -1,
         }
     },
-
-    // Affect
     {
         "id":24,
         "question": "I could only be lewd to my partner(s).",
@@ -236,23 +234,27 @@ questions = [
         "question": "Aftercare is important.",
         "effect": {
             "affect": 1,
+        }
         },
     {
         "id":34,
         "question": "I have used a sex toy that was not designed for my gender",
         "effect": {
             "deviance": 1,
+        }
         },
     {
         "id":35,
         "question": "I have masturbated with a makeshift sex toy",
         "effect": {
             "drive": 1,
+        }
         },
     {
         "id":36,
         "question": "I make a lot of noise when pleasured (moaning, gasping, etc.)",
         "effect": {
             "dominant": -1,
+        }
         }
 ];
