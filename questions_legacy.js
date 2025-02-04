@@ -215,7 +215,7 @@ questions = [
         "effect": {
             "dominant": 1,
         }
-        },
+    },
     {
         "id":31,
         "question": "I usually use a sex toy when masturbating.",
@@ -236,26 +236,26 @@ questions = [
         "effect": {
             "affect": 1,
         }
-        },
+    },
     {
         "id":34,
         "question": "I have used a sex toy that was not designed for my gender",
         "effect": {
             "deviance": 1,
         }
-        },
+    },
     {
         "id":35,
         "question": "I have masturbated with a makeshift sex toy",
         "effect": {
             "drive": 1,
         }
-        },
+    },
     {
         "id":36,
         "question": "I make a lot of noise when pleasured (moaning, gasping, etc.)",
         "effect": {
             "dominant": -1,
         }
-        }
+    }
 ];
